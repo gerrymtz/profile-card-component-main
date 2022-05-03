@@ -1,0 +1,27 @@
+{
+  "name": "profile-card-component-main",
+  "version": "1.0.0",
+  "description": "Frontend mentor",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerrymtz/profile-card-component-main.git"
+  },
+  "keywords": [
+    "HTML5",
+    "CSS3",
+    "SASS"
+  ],
+  "author": "Gerardo Martínez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gerrymtz/profile-card-component-main/issues"
+  },
+  "homepage": "https://github.com/gerrymtz/profile-card-component-main#readme",
+  "devDependencies": {
+    "sass": "^1.51.0"
+  }
+}
